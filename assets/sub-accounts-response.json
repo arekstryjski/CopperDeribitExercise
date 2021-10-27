@@ -1,0 +1,99 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "username": "areks",
+      "type": "main",
+      "system_name": "areks",
+      "security_keys_enabled": false,
+      "security_keys_assignments": [],
+      "referrals_count": 0,
+      "receive_notifications": false,
+      "portfolio": {
+        "usdt": {
+          "margin_balance": 0,
+          "maintenance_margin": 0,
+          "initial_margin": 0,
+          "equity": 0,
+          "currency": "usdt",
+          "balance": 0,
+          "available_withdrawal_funds": 0,
+          "available_funds": 0
+        },
+        "eth": {
+          "margin_balance": 0,
+          "maintenance_margin": 0,
+          "initial_margin": 0,
+          "equity": 0,
+          "currency": "eth",
+          "balance": 0,
+          "available_withdrawal_funds": 0,
+          "available_funds": 0
+        },
+        "btc": {
+          "margin_balance": 0.00008,
+          "maintenance_margin": 0,
+          "initial_margin": 0,
+          "equity": 0.00008,
+          "currency": "btc",
+          "balance": 0.00008,
+          "available_withdrawal_funds": 0.00008,
+          "available_funds": 0.00008
+        }
+      },
+      "login_enabled": true,
+      "is_password": true,
+      "id": 34618,
+      "email": "arek.stryjski@gmail.com"
+    },
+    {
+      "username": "areks_1",
+      "type": "subaccount",
+      "system_name": "areks_1",
+      "security_keys_enabled": false,
+      "security_keys_assignments": [],
+      "referrals_count": 0,
+      "receive_notifications": false,
+      "portfolio": {
+        "usdt": {
+          "margin_balance": 0,
+          "maintenance_margin": 0,
+          "initial_margin": 0,
+          "equity": 0,
+          "currency": "usdt",
+          "balance": 0,
+          "available_withdrawal_funds": 0,
+          "available_funds": 0
+        },
+        "eth": {
+          "margin_balance": 0,
+          "maintenance_margin": 0,
+          "initial_margin": 0,
+          "equity": 0,
+          "currency": "eth",
+          "balance": 0,
+          "available_withdrawal_funds": 0,
+          "available_funds": 0
+        },
+        "btc": {
+          "margin_balance": 0.0001,
+          "maintenance_margin": 0,
+          "initial_margin": 0,
+          "equity": 0.0001,
+          "currency": "btc",
+          "balance": 0.0001,
+          "available_withdrawal_funds": 0.0001,
+          "available_funds": 0.0001
+        }
+      },
+      "login_enabled": false,
+      "is_password": false,
+      "id": 34624,
+      "email": "arek.stryjski@gmail.com"
+    }
+  ],
+  "usIn": 1635202783674700,
+  "usOut": 1635202783675219,
+  "usDiff": 519,
+  "testnet": true
+}
