@@ -9,7 +9,7 @@ J5UtE25BjXiq6mRQyzRnw_hAS2XtvIAEK21Z3tNQ7Fw
 ```
 This can be changed in `app/services/DeribitURLs.scala`
 
-To log into <https://test.deribit.com/account/BTC/me> use `arek.stryjski@gmail.com` and `CopperExc10`.
+To log into <https://test.deribit.com/account/BTC/me> use my email and `CopperExc10`.
 
 
 ### Available queries
